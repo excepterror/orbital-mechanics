@@ -25,3 +25,8 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# TXT files
+areas_Feynman.txt
+orbit_Euler.txt
+orbit_Feynman.txt
